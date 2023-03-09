@@ -1,0 +1,15 @@
+/Users/zelamkh/С#HomeWork6/HW.Task41/bin/Debug/net6.0/HW.Task41
+/Users/zelamkh/С#HomeWork6/HW.Task41/bin/Debug/net6.0/HW.Task41.deps.json
+/Users/zelamkh/С#HomeWork6/HW.Task41/bin/Debug/net6.0/HW.Task41.runtimeconfig.json
+/Users/zelamkh/С#HomeWork6/HW.Task41/bin/Debug/net6.0/HW.Task41.dll
+/Users/zelamkh/С#HomeWork6/HW.Task41/bin/Debug/net6.0/HW.Task41.pdb
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.csproj.AssemblyReference.cache
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.AssemblyInfoInputs.cache
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.AssemblyInfo.cs
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.csproj.CoreCompileInputs.cache
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.dll
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/refint/HW.Task41.dll
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.pdb
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/HW.Task41.genruntimeconfig.cache
+/Users/zelamkh/С#HomeWork6/HW.Task41/obj/Debug/net6.0/ref/HW.Task41.dll
